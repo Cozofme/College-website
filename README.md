@@ -1,4 +1,4 @@
-Doranda College Website
+# Doranda College Website
 
 This repository contains the source code for the Doranda College website. It includes HTML, CSS, JavaScript, and assets such as images and fonts.
 
